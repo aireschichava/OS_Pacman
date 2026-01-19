@@ -1,0 +1,16 @@
+# Build Artifacts
+bin/
+obj/
+*.o
+*.exe
+
+# Personal / Planning
+implementation_plan.md
+TODO.md
+notes.txt
+
+# System
+.DS_Store
+
+# Logs
+*.log

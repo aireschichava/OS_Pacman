@@ -1,0 +1,14 @@
+DIM 5 10
+TEMPO 30
+PAC pacman.p
+MON monster.m
+XXXXXXXXXX
+XC.......X
+X XX XX  X
+X........X
+X XXXXX @X
+X........X
+X XXXXX  X
+X........X
+XM       X
+XXXXXXXXXX

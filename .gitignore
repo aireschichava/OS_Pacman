@@ -1,0 +1,35 @@
+# --- GLOBAL IGNORES ---
+.DS_Store
+.vscode/
+
+# --- BUILD ARTIFACTS ---
+bin/
+obj/
+*.o
+*.exe
+*.log
+tmp/
+
+# --- PERSONAL / LEARNING ---
+learning-SO/
+learning-SO_project2/
+implementation_plan.md
+Project.md
+
+# --- EXCLUDED FROM REMOTE ---
+Exams/
+CV_Boas_Chamo.html
+CV_Boas_Chamo.pdf
+CV_Boas_General.md
+CV_Boas_Sugestao.md
+Carta_Apresentacao_Boas.md
+
+# --- EXCEPTIONS (Keep these!) ---
+!Project_2/Project.md
+Project_2/implementation_plan.md
+Project_2/Defense_Preparation.md
+
+
+# Personal helper scripts
+remote_run.sh
+sync_sigma.sh

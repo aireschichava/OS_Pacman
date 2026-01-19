@@ -1,0 +1,10 @@
+DIM 6 12
+TEMPO 30
+PAC pacman.p
+MON monster.m
+############
+#C    @    #
+#          #
+#    .     #
+#       M  #
+############
